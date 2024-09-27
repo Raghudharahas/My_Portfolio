@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50; /* Green background */
+    color: white;
+    padding: 10px 20px; /* Padding around the header */
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0;
+}
+
+nav ul li {
+    display: inline; /* Display items in a line */
+    margin: 0 15px; /* Space between links */
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none; /* Remove underline */
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333; /* Dark footer background */
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
